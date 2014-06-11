@@ -35,6 +35,11 @@ public class TopicsListAdapter extends BaseAdapter{
 		this.context = context;
 		this.showOptions = showOptions;
 		inflater = LayoutInflater.from(context);
+
+        changes
+        made by
+        akhil
+
 	}
 
 	@Override
